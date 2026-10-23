@@ -1,4 +1,7 @@
 
+PROJETO PESSOAL 
+
+
 Spendy - Organização Financeira
 
 O **Spendy** é uma aplicação web de controle financeiro pessoal, desenvolvida para ser simples, moderna e intuitiva. Com ela, o usuário pode organizar suas finanças diárias e ter uma visão clara da sua saúde financeira direto no navegador.
