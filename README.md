@@ -23,9 +23,3 @@ Layout Responsivo:** Funciona perfeitamente tanto no computador quanto no celula
  Como Executar o Projeto
 
 Como o Spendy foi construído puramente com tecnologias web nativas, você não precisa instalar nenhuma dependência pesada para rodá-lo!
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com
-   ```
-2. Navegue até a pasta do projeto e abra o arquivo `index.html` em qualquer navegador web (Chrome, Edge, Firefox, Safari).
