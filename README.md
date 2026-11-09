@@ -1,25 +1,48 @@
+#   Controle Financeiro Pessoal !
 
-PROJETO PESSOAL 
+A aplicação SPENDY foi desenvolvida para auxiliar na organização das finanças pessoais, permitindo acompanhar receitas, despesas e visualizar informações financeiras em um só lugar.
 
+## Sobre o projeto
 
-Spendy - Organização Financeira
+O projeto foi desenvolvido com o objetivo de criar uma interface simples e intuitiva para o controle financeiro do dia a dia. A proposta é facilitar o acompanhamento das movimentações e ajudar o usuário a ter uma visão mais organizada de sua situação financeira.
 
-O **Spendy** é uma aplicação web de controle financeiro pessoal, desenvolvida para ser simples, moderna e intuitiva. Com ela, o usuário pode organizar suas finanças diárias e ter uma visão clara da sua saúde financeira direto no navegador.
+## Funcionalidades
 
+- Visualização de informações financeiras em um painel.
+- Registro e acompanhamento de receitas.
+- Controle de despesas.
+- Organização de metas financeiras.
+- Calendário para consulta e organização.
+- Diferentes opções de temas visuais.
 
-Tecnologias Utilizadas
+## Tecnologias utilizadas
 
-* **HTML5:** Estruturação dos elementos da página (formulários, tabelas e seções).
-* **CSS3:** Design responsivo, estilização visual moderna e layout amigável para o usuário.
-* **JavaScript:** Lógica de negócios (cálculo de saldo, entradas e saídas) e manipulação dinâmica dos dados em tela.
+- HTML5
+- CSS3
+- JavaScript
 
+## Como executar
 
-Funcionalidades Principais
-**Controle de Saldo:** Visualização em tempo real do saldo atual baseado nos seus lançamentos.
-*  **Adicionar Transações:** Formulário simples para cadastrar entradas (receitas) e saídas (despesas).
-Layout Responsivo:** Funciona perfeitamente tanto no computador quanto no celular (via CSS).
+1. Faça o download ou clone este repositório.
+2. Abra a pasta do projeto.
+3. Execute o arquivo `index.html` em seu navegador.
 
+## Estrutura do projeto
 
- Como Executar o Projeto
+```text
+SPENDY/
+├── index.html
+├── estilo.css
+├── java.js
+└── README.md
+```
 
-Como o Spendy foi construído puramente com tecnologias web nativas, você não precisa instalar nenhuma dependência pesada para rodá-lo!
+## Desenvolvimento
+
+Este projeto faz parte dos meus estudos em desenvolvimento web e foi criado para colocar em prática conhecimentos de HTML, CSS e JavaScript.
+
+Durante o desenvolvimento, busquei trabalhar a organização da interface, a experiência de uso e a implementação das funcionalidades da aplicação.
+
+---
+
+Desenvolvido como projeto pessoal de aprendizado.
