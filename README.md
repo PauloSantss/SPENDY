@@ -16,7 +16,7 @@ Tecnologias Utilizadas
 
 Funcionalidades Principais
 **Controle de Saldo:** Visualização em tempo real do saldo atual baseado nos seus lançamentos.
-* ➕ **Adicionar Transações:** Formulário simples para cadastrar entradas (receitas) e saídas (despesas).
+*  **Adicionar Transações:** Formulário simples para cadastrar entradas (receitas) e saídas (despesas).
 Layout Responsivo:** Funciona perfeitamente tanto no computador quanto no celular (via CSS).
 
 
